@@ -90,4 +90,4 @@ The Random Forest feature-importance analysis assigned the largest importances t
 
 ## Contributors
 
-This project was developed as a team project by Srivats Pulumati, Nischal Kharel, and Fernando Seanez.
+This project was developed as a team project by Nischal Kharel, Fernando Seanez and Srivats Pulumati.
