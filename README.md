@@ -61,4 +61,4 @@ Key Learnings
 - Comparing models using R², RMSE, and MAE
 - Interpreting model feature importance while distinguishing correlation from causation
 Contributors
-This project was developed as a team project by Nischal Kharel, Fernando Seanez, and Srivats Pulumati.
+This project was developed as a team project by Srivats Pulumati, Nischal Kharel, and Fernando Seanez.
